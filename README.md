@@ -1,6 +1,6 @@
 
 # introducttion 
-this is an Assesmnt Automation Test Project for web application and API base on javascript language. all script have been wreten according to test scenarios, you can found the test scenarioes in \scenarios\Test scenarios .
+this is an Assesmnt Automation Test Project for web application and API base on javascript language. all script have been written according to test scenarios, you can found the test scenarioes in \scenarios\Test scenarios .
 
 ## Technologies:
 - vs code: code editor.
