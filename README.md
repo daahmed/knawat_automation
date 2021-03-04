@@ -28,7 +28,7 @@ Clone this repo to your local machine using https://github.com/daahmed/knawat_au
 follow this steps
 - open the project in vscode editor.
 - open the vscode terminal 
-- write npm run cypress:open in terminal.
+- write 'npm run cypress:open' in terminal.
 - select the test script you want to run.
 
 
