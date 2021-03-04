@@ -1,5 +1,5 @@
 
-# ÷ntroduction 
+# Introduction 
 this is an Assesmnt Automation Test Project for web application and API base on javascript language. all script have been written according to test scenarios, you can found the test scenarios in \scenarios\Test scenarios .
 
 ## Technologies:
