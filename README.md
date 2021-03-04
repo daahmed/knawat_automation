@@ -14,6 +14,7 @@ These instructions will get you a copy of the project up and running on your loc
 - \cypress\fixtures: automation test data.
 - \cypress\integration\API:automation test script for APIs.
 - \cypress\integration\web_application: automation test script for web application.
+- \scenarios: test scenarios file 
 
 # Setup
 - clone the project.
